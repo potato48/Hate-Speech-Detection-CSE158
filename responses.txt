@@ -1,0 +1,27 @@
+{
+  "294368145": 
+    [(7, "bonus: Went above and beyond, included lots of nice graphs and details in the exploratory data analysis about potential biases and various outliers."),
+     (5, "Provided good description of preprocessing done to obtain features needed for the predictive task. Good variety of baseline models and non-baseline models."),
+     (5, "Provided lots of detailed explanation for each model, including any scaling or overfitting issues, optimizations, and strengths and weaknesses."),
+     (5, "Provided great information on the dataset used, how it was created, and other research using the dataset."),
+     (5, "Provided lots of graphs and detailed explanations and comparisons of all the trained models and all the baseline models.")],
+  "294402081": 
+    [(7, "bonus: Went above and beyond, detailing various preprocessing steps and their rationale for them. Also included some nice graphs and details in the exploratory data analysis."),
+     (5, "Detailed all parts of task, including baselines, predictive task, features and how the data was processed to create said features, etc."),
+     (5, "Provided detailed explanations and informative tables on the performance of the trained models."),
+     (4, "Described lots of other research done with the same dataset as well as compared conclusions, but didn't really mention other datasets."),
+     (5, "Provided detailed descriptions and explanations for the performance of all models. Included informative graphs, interpretations of model parameters, and compared feature representations.")],
+  "294377822": 
+    [(6, "bonus: Does a good job with the exploratory analysis and included some interesting graphs/visuals."),
+     (5, "Hits all points in the section. Not missing any part of the required content."),
+     (5, "Solid descriptions of everything done to optimize the models used and why they were done."),
+     (5, "Report does a great job discussing a variety of different datasets, other work that's been done, and describing each part."),
+     (5, "Does a great job comparing features, interpreting parameters, and describing performance of the models trained.")],
+  "294410794": 
+    [(5, "Report contains expected analysis of dataset and notes some interesting outlier data points. Also describes statistics about the dataset which is large enough for the assignment."),
+     (5, "Explains how the data was processed to obtained the features used. Overall, the report does a good job explaining the predictive task, how validity will be asssessed, etc."),
+     (5, "Does a good job explaining the results of all the models, any overfitting or scaling issues as well as other models that were in consideration."),
+     (5, "Report does a great job discussing a variety of different datasets, other work that's been done, and describing each part."),
+     (5, "Solid job describing the results and performance of all the models as well as interpreting model parameters.")],
+  "ranking": ["294402081", "294368145", "294377822", "294410794"]
+}
